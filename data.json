@@ -1,0 +1,50 @@
+[
+  {
+    "img": "https://i.ibb.co/fN5szHY/p-1-43d43fdd.png",
+    "cost": 180,
+    "des": "Paris has 13 hills, whose peaks reach between 60 and 130 meters above sea level. Discover the history of these old Parisian reliefs, and what is the highest",
+    "duration": "5 Days/6 night",
+    "place": "Paris Hill Tour",
+    "rattings": "8000"
+  },
+  {
+    "img": "https://i.ibb.co/r0kw5fh/p-2-02c7fd31.png",
+    "cost": 280,
+    "des": "Lake Garda, in northern Italy, is known for its crystal clear water. At the south end, the town of Sirmione is dominated by the Rocca Scaligera, a fortress with harbor views. The nearby Grotte di Catullo archaeological site includes a Roman villa.",
+    "duration": "4 Days/5 night",
+    "place": "Lake Garda, Italy",
+    "rattings": "8000"
+  },
+  {
+    "img": "https://i.ibb.co/f9T1DMR/p-3-460015b6.png",
+    "cost": 120,
+    "des": "Mount Etna, or Etna, is an active stratovolcano on the east coast of Sicily, Italy, in the Metropolitan City of Catania, between the cities of Messina and Catania. It lies above the convergent plate margin between the African Plate and the Eurasian Plate.",
+    "duration": "3 Days/4 night",
+    "place": "Mount Dtna, Italy",
+    "rattings": "8000"
+  },
+  {
+    "img": "https://i.ibb.co/74dDJft/p-4-5a3083bb.png",
+    "cost": 300,
+    "des": "The Amalfi Coast is a 50-kilometer stretch of coastline along the southern edge of Italy’s Sorrentine Peninsula, in the Campania region. It’s a popular holiday destination, with sheer cliffs and a rugged shoreline dotted with small beaches and pastel-colored fishing villages. ",
+    "duration": "6 Days/7 night",
+    "place": "Amalfi Costa, Italy",
+    "rattings": "8000"
+  },
+  {
+    "img": "https://i.ibb.co/dbDkJPG/p-5-194db7b2.png",
+    "cost": 240,
+    "des": "The French Riviera (or Côte d'Azur) is the Mediterranean coast of southeastern France. It includes famously glamorous beach resorts such as Saint-Tropez and Cannes, and the independent microstate of Monaco. ",
+    "duration": "5 Days/6 night",
+    "place": "French Rivira, France",
+    "rattings": "8500"
+  },
+  {
+    "img": "https://i.ibb.co/QKkGJtb/p-6-1c3145eb.png",
+    "cost": 145,
+    "des": "Lake Geneva (or Lac Léman) is a crescent-shaped lake shared between France and Switzerland, and overlooked by the Alps. Geneva, the Swiss city at its southern tip, is a diplomatic hub with luxury shops and a cobbled old town.",
+    "duration": "5 Days/6 night",
+    "place": "Lake Geneva, France",
+    "rattings": "8000"
+  }
+]
