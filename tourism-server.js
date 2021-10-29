@@ -81,7 +81,7 @@ const run = async () => {
     // getting multiple bookings by filtering email
     app.get("/bookings/:email", async (req, res) => {
       const email = req.params.email;
-      const query = { email: { $in: email } };
+      const query = { email: email };
 
       const cursor = bookingCollection.find(query);
       const bookings = await cursor.toArray();
